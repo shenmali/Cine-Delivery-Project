@@ -3,8 +3,11 @@ Cinx-Delivery is a simple app that shows a list of deliveries and the details of
 
 ## Used In The APP
 - MVVM
-- Swift
+- Swift, XIB
 - Alamofire
 - RxSwift
 - RxCocoa
+- URLSession
+
+
 
