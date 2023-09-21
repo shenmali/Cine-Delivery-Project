@@ -1,0 +1,18 @@
+<svg id="OnxLogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.221" height="73.382" viewBox="0 0 122.221 73.382">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_6" data-name="Clip 6" d="M0,0H56.48V66.624H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Fill_1" data-name="Fill 1" d="M20.179,29.866,0,70.225,27.444,29.059,2.421,0Z" transform="translate(72.983 3.158)" fill="#004f62"/>
+  <path id="Fill_2" data-name="Fill 2" d="M0,6.457,4.843,0l20.18,22.6H10.493Z" transform="translate(97.198 33.024)" fill="#eb1d25"/>
+  <path id="Fill_3" data-name="Fill 3" d="M0,25.83,13.722,0h11.3L4.843,29.866Z" transform="translate(97.198 0.736)" fill="#969896"/>
+  <path id="Fill_4" data-name="Fill 4" d="M0,17.758,8.072,0h7.264l3.229,8.072L22.6,0h6.458L20.986,17.758H14.529l2.421-4.843L12.915,4.843,7.264,17.758Z" transform="translate(55.225 37.867)" fill="#969896"/>
+  <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+    <path id="Clip_6-2" data-name="Clip 6" d="M0,0H56.48V66.624H0Z" fill="none"/>
+    <g id="Group_7-2" data-name="Group 7" clip-path="url(#clip-path)">
+      <path id="Fill_5" data-name="Fill 5" d="M49.575,18.494C53.611,11.23,47.008,3.858,42.123,1.8,27.96-4.153,10.546,5.125,3.228,22.527S1.457,58.863,15.619,64.82,47.2,61.5,54.514,44.1a42,42,0,0,0,1.966-5.826h-8.7q-.184.473-.384.945c-6.149,14.62-19.628,22.9-30.107,18.493S3.305,37.876,9.454,23.256,29.083.355,39.562,4.762c5.267,2.215,8.773,7.213,10.177,13.495Z" transform="translate(0 0)" fill="#969896"/>
+    </g>
+    <path id="Fill_8" data-name="Fill 8" d="M14.529,7.264A7.265,7.265,0,1,1,7.265,0a7.265,7.265,0,0,1,7.264,7.264" transform="translate(42.714 20.916)" fill="#eb1d25"/>
+  </g>
+</svg>
